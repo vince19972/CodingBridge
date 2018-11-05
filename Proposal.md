@@ -52,7 +52,7 @@ The ambitious goal is to complete [1.0: Basic ICM Supplementary Resource](https:
 
 ## Documentation
 
-I plan to use Medium to document the development process.
+[CodingBridge: Documentation of development in progress](https://medium.com/@vinceshao/codingbridge-documentation-of-development-in-progress-f67e25611399)
 
 ## Accessibility
 
@@ -77,6 +77,7 @@ The idea of building this project is coming from nothing else but that experienc
 
 This proposal template was created with material and advice from:
 
+- [Bret Victor: Learnable Programming](http://worrydream.com/#!/LearnableProgramming)
 - [How to write a proposal for GSoC](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
 - [Processing Foundation GSoC application template](https://docs.google.com/document/d/1UFcWh2IWqhICh4YIFNwtKUaWWXifaBB67rjPxbYzjbE/edit)
 - [Getting into Summer of Code programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/)
