@@ -17,3 +17,5 @@ CodingBridge is designed for designers, artists, creative workers or anyone who 
 ## About CodingBridge and ITP at NYU
 
 This is an ongoing final project launched in [Open Source Studio at ITP](https://github.com/Open-Source-Studio-at-ITP), 2018. The initial stage of the project will be designed as a supplementary learning resource to the syllabus of [Foundation Course ICM](https://github.com/ITPNYU/ICM-2018) at ITP. 
+
+The development process is currently documented in Medium post [CodingBridge: Documentation of development in progress](https://medium.com/@vinceshao/codingbridge-documentation-of-development-in-progress-f67e25611399).
