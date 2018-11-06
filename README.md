@@ -2,7 +2,7 @@
 
 CodingBridge is an experimental non-profit programming tutorial platform that helps adult beginners with no programming experience to learn with less anxiety, more confidence. The goal here is to design curriculums for people who are not good at math, science or computation in conventional education system. 
 
-To achieve the goal, CodingBridge has one core fundamental value: design everything with empathetic approach. This value owns highest priority before all tasks, hence keeps CodingBridge always on the track of providing better learning experience for beginners. 
+To achieve the goal, CodingBridge has one core fundamental value: design everything with empathetic approach. This value owns highest priority above all tasks, keeping CodingBridge always on the track of providing better learning experience for beginners. 
 
 ## Why another tutorial platform?
 
