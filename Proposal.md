@@ -60,9 +60,10 @@ Because most part of the tutorials will be designed for visual learner by using 
 
 ## Mentoring
 
-Because I barely have no experience in full-stack development, I might need helps on building the site at some point of the progress. Designing the curriculum is challenging, and it's not going to be good enough with my own perspective. So I'll need feedbacks and advices to make it better.
+Because I barely have no experience in full-stack development, I might need helps on building the site at some point of the progress. Designing the curriculum is challenging, and it's not going to be good enough with my own perspective. I'll need feedbacks and advices to make it better.
 
-But I don't have a clear list of possible mentors for now.
+Possible Mentor:
+- [Taeyoon Choi](http://taeyoonchoi.com/) : Taeyoon is the co-founder of SFPC, which has lots of experience of teaching artits programming from the perspective of artists.
 
 ## About me
 
