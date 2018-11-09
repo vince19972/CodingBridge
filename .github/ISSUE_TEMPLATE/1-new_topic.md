@@ -1,5 +1,5 @@
 ---
-name: ":bulb: Potential topic submission"
+name: "\U0001F4A1 Potential topic submission"
 about: Submit possible topic to cover in future
 
 ---
