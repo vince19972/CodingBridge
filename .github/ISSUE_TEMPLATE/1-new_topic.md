@@ -1,7 +1,8 @@
-<!--
-Issue type: Potential topic submission
-Issue definition: Submit possible topic to cover in future
--->
+---
+name: ":bulb: Potential topic submission"
+about: Submit possible topic to cover in future
+
+---
 
 <!--
 Hello! Thank you for helping us making CodingBridge a better place!
