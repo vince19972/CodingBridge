@@ -1,3 +1,7 @@
+# ⚠️ This repo has been moved to the [CodingBridge organization](https://github.com/coding-bridge).
+
+
+
 # Welcome to CodingBridge!
 
 CodingBridge is an experimental non-profit programming tutorial platform that helps adult beginners with no programming experience to learn with less anxiety, more confidence. The goal here is to design curriculums for people who are not good at math, science or computation in conventional education system. 
